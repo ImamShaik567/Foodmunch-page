@@ -1,0 +1,107 @@
+.poster-img{
+    background-image: url(foodbanner.jpg);
+    width: 100%;
+}
+.explore-menu-cart{
+    background-color: #0967d219;
+}
+.explore-heading{
+    
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+
+}
+.menu-cart-item{
+    background-color: #e12d3919;
+
+}
+.item-img{
+    border-radius: 20px;
+
+}
+.nav-logo{
+    width: 40px;
+    height: 40px;
+    border-radius: 25px;
+    margin-left: 20px;
+}
+#navHeading1:hover{
+    transform: scale(1.1);
+    color: black;
+}
+#navHeading2:hover{
+    transform: scale(1.1);
+    color: black;
+}
+#navHeading3:hover{
+    transform: scale(1.1);
+    color: black;
+}
+#navHeading:hover{
+    transform: scale(1.1);
+    color: black;
+}
+.payment-logo{
+    height: 50px;
+    width: 50px;
+    margin-right: 20px;
+}
+.payment-img{
+    width: 270px;
+}
+.button{
+    border-radius: 12px;
+    background-color: brown;
+    color: white;
+    font-weight: 500;
+    border-width: 0;
+}
+
+.nav-bg-col{
+    background-color: rgb(213, 213, 247);
+}
+
+.footer{
+    background-color: rgb(213, 213, 247);
+    height: 40px;
+    text-align: center;
+    padding: 10px;
+}
+
+.mar{
+    background-color: rgb(229, 229, 248);
+    color: rgb(119, 14, 145);
+}
+
+.search{
+    padding-left: 120px;
+    padding-right: 20px;
+}
+
+/* footer */
+footer{
+    background: rgb(213, 213, 247);
+    padding: 15px 23px;
+    color: rgb(255, 252, 252);
+    text-align: center;
+}
+
+footer .social a{
+    font-size:24px;
+    color: rgb(23, 95, 195);
+    transition: 0ms;
+
+}
+a:hover i{
+    transform: scale(1.2);
+}
+
+footer span a{
+    color: rgb(14, 135, 221);
+    text-decoration: none;
+}
+footer span a:hover{
+    text-decoration: underline;
+}
+
